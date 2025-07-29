@@ -1,1 +1,1 @@
-# HAR_Lite-
+# HAR_Lite
